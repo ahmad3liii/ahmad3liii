@@ -31,8 +31,8 @@ Here are some of my projects:
 | Project | Description | Repo |
 | ------- | ----------- | ---- |
 | **TransportMap** | Flutter app for interactive transportation maps | [GitHub](https://github.com/ahmad3liii/Semster-Project-TransportMap) |
-| **Project 2** | Add description here | [GitHub](#) |
-| **Project 3** | Add description here | [GitHub](#) |
+| **Project 2** | Financial and Administrative System Analysis Project "Create API with Django" && Project of Smart Airport Managment System | [GitHub](https://github.com/ahmad3liii/airport_api_django) |
+| **ATM** | Project in Java | [GitHub](https://github.com/ahmad3liii/Bank) |
 
 *(Add more projects as you create them)*
 
