@@ -28,13 +28,13 @@
 ## 🏆 Projects Showcase
 Here are some of my projects:
 
-| Project | Description | Repo |
-| ------- | ----------- | ---- |
-| **TransportMap** | Flutter app for interactive transportation maps | [GitHub](https://github.com/ahmad3liii/Semster-Project-TransportMap) |
-| **Smart Airport Mangment System and API** | Financial and Administrative System Analysis Project "Create API with Django" && Project of Smart Airport Managment System | [GitHub](https://github.com/ahmad3liii/airport_api_django) |
-| **ATM** | Project in Java | [GitHub](https://github.com/ahmad3liii/Bank) |
+| Project | Description | Tech & Demo | Repo |
+| ------- | ----------- | ----------- | ---- |
+| **TransportMap** | Flutter app for interactive transportation maps | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) | [GitHub](https://github.com/ahmad3liii/Semster-Project-TransportMap) |
+| **Smart Airport Management System & API** | Financial & Administrative System Analysis Project with API built in Django | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) | [GitHub](https://github.com/ahmad3liii/airport_api_django) |
+| **ATM System** | Java-based banking system simulation | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java) | [GitHub](https://github.com/ahmad3liii/Bank) |
 
-
+> 💡 Tip: يمكن إضافة صور صغيرة أو GIFs لكل مشروع داخل الجدول لإعطاء تصور بصري أفضل للتطبيق.
 
 ---
 
@@ -45,8 +45,15 @@ Here are some of my projects:
 
 ---
 
+## ✨ Achievements & Highlights
+- Completed multiple semester projects with full documentation and deployment  
+- Active contributor to personal and academic projects in Flutter & Java  
+- Continuous improvement of cross-platform app development skills  
+
+---
+
 ## 💬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ali-9b5623284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ali-9b5623284/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmad.alooshe@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ahmad3liii)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmad3liii)
