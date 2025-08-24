@@ -26,15 +26,15 @@
 ---
 
 ## 🏆 Projects Showcase
-Here are some of my projects:
+Here are some of my projects with demo images/GIFs:
 
-| Project | Description | Tech & Demo | Repo |
-| ------- | ----------- | ----------- | ---- |
-| **TransportMap** | Flutter app for interactive transportation maps | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) | [GitHub](https://github.com/ahmad3liii/Semster-Project-TransportMap) |
-| **Smart Airport Management System & API** | Financial & Administrative System Analysis Project with API built in Django | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) | [GitHub](https://github.com/ahmad3liii/airport_api_django) |
-| **ATM System** | Java-based banking system simulation | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java) | [GitHub](https://github.com/ahmad3liii/Bank) |
+| Project | Description | Demo | Tech & Repo |
+| ------- | ----------- | ---- | ------------ |
+| **TransportMap** | Flutter app for interactive transportation maps | ![TransportMap Demo](https://raw.githubusercontent.com/ahmad3liii/Semster-Project-TransportMap/main/demo.gif) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) [Repo](https://github.com/ahmad3liii/Semster-Project-TransportMap) |
+| **Smart Airport Management System & API** | Financial & Administrative System Analysis Project with API built in Django | ![Airport Demo](https://raw.githubusercontent.com/ahmad3liii/airport_api_django/main/demo.gif) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) [Repo](https://github.com/ahmad3liii/airport_api_django) |
+| **ATM System** | Java-based banking system simulation | ![ATM Demo](https://raw.githubusercontent.com/ahmad3liii/Bank/main/demo.gif) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java) [Repo](https://github.com/ahmad3liii/Bank) |
 
-> 💡 Tip: يمكن إضافة صور صغيرة أو GIFs لكل مشروع داخل الجدول لإعطاء تصور بصري أفضل للتطبيق.
+> 💡 Tip: يمكن إضافة رابط تشغيل مباشر لكل مشروع أو صور متحركة لتجربة تفاعلية أفضل.
 
 ---
 
