@@ -34,7 +34,7 @@ Here are some of my projects:
 | **Smart Airport Mangment System and API** | Financial and Administrative System Analysis Project "Create API with Django" && Project of Smart Airport Managment System | [GitHub](https://github.com/ahmad3liii/airport_api_django) |
 | **ATM** | Project in Java | [GitHub](https://github.com/ahmad3liii/Bank) |
 
-*(Add more projects as you create them)*
+
 
 ---
 
