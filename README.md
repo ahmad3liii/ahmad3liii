@@ -31,7 +31,7 @@ Here are some of my projects:
 | Project | Description | Tech & Demo | Repo |
 | ------- | ----------- | ----------- | ---- |
 | **TransportMap** | Flutter app for interactive transportation maps | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) | [GitHub](https://github.com/ahmad3liii/Semster-Project-TransportMap) |
-| **itube-flutter** | Stream, search, and explore videos with a smooth Flutter app built using BLoC and modern UI. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) | [GitHub](https://github.com/ahmad3liii/itube-flutter) |
+| **iTubee-flutter** | Stream, search, and explore videos with a smooth Flutter app built using BLoC and modern UI. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) | [GitHub](https://github.com/ahmad3liii/itube-flutter) |
 | **Smart Airport Management System & API** | Financial & Administrative System Analysis Project with API built in Django | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) | [GitHub](https://github.com/ahmad3liii/airport_api_django) |
 | **ATM System** | Java-based banking system simulation | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java) | [GitHub](https://github.com/ahmad3liii/Bank) |
 | Sport is Life | C++ & OpenGL graphics project showing a person exercising in a forest | C++ / OpenGL | [GitHub](https://github.com/ahmad3liii/Sport-is-life) |
