@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmad Ali
 
-🎓 4th-year IT Engineering student | Software Engineering & Information Systems  
+🎓 5th-year IT Engineering student | Software Engineering & Information Systems  
 💻 Passionate about **Flutter**, mobile & cross-platform development  
 🛠️ Skilled in: Dart, Java, C++, MySQL, Git/GitHub  
 🚀 Currently working on semester projects and improving **app development, software architecture, and information systems design**  
