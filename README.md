@@ -46,6 +46,12 @@ Here are some of my projects:
 
 ---
 
+## 🌱 Deepening Expertise
+- Advanced Flutter Development: Deep diving into BLoC, Provider, and app performance.
+- Software Architecture: Mastering Clean Architecture and MVVM design patterns.
+- Machine Learning & AI: Exploring pathfinding algorithms and queuing theory.
+
+---
 ## ✨ Achievements & Highlights
 - Completed multiple semester projects with full documentation and deployment  
 - Active contributor to personal and academic projects in Flutter & Java  
