@@ -35,7 +35,7 @@ Here are some of my projects:
 | **Smart Airport Management System & API** | Financial & Administrative System Analysis Project with API built in Django | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django) | [GitHub](https://github.com/ahmad3liii/airport_api_django) |
 | **ATM System** | Java-based banking system simulation | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java) | [GitHub](https://github.com/ahmad3liii/Bank) |
 | Sport is Life | C++ & OpenGL graphics project showing a person exercising in a forest | C++ / OpenGL | [GitHub](https://github.com/ahmad3liii/Sport-is-life) |
-| **Play-with-A_Star** | A dynamic Flutter application visualising the A* Search Algorithm with real-time grid interaction and pathfinding logic. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) | [GitHub](https://github.com/ahmad3liii/play-with-A_Star)) |
+| **Play-with-A_Star** | A dynamic Flutter application visualising the A* Search Algorithm with real-time grid interaction and pathfinding logic. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter) | [GitHub](https://github.com/ahmad3liii/play-with-A_Star) |
 
 ---
 
