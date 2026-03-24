@@ -39,17 +39,13 @@ Here are some of my projects:
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Flutter** development techniques  
-- Software architecture patterns (MVVM, BLoC)  
-- Mobile app optimization and UI/UX design  
-
 ---
 
 ## 🌱 Deepening Expertise
-- Advanced Flutter Development: Deep diving into BLoC, Provider, and app performance.
-- Software Architecture: Mastering Clean Architecture and MVVM design patterns.
-- Machine Learning & AI: Exploring pathfinding algorithms and queuing theory.
+- Advanced Flutter: Mastering state management (BLoC, Provider) and app performance optimization.
+- Software Architecture: Implementing Clean Architecture and MVVM design patterns.
+- AI & Algorithms: Exploring pathfinding logic, heuristics, and Machine Learning algorithms.
+- UI/UX Design: Crafting intuitive and responsive mobile interfaces.
 
 ---
 ## ✨ Achievements & Highlights
